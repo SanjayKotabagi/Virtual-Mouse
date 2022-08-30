@@ -1,5 +1,8 @@
-# Virtual-Mouse
+# Virtual-Mouse-Using-AI
 Virtual Mouse using Hand Guesture
+The purpose of the project is to create a virtual mouse that works with the help of a web camera. In this project a camera continuously takes images of hand movements of a user, which is then mapped into mouse inputs. 
+
+This Uses mediapipe , OpenCV
 
 ### Installation Steps : 
 
