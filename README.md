@@ -7,12 +7,12 @@ Requirements :
 Python
 Pip
 
-Step 1 : 
-  Go to folder where the project files are 
-Step 2 : 
-  Open Command prompt and enter 'pip install -r requirement.txt'
-Step 3 :
-  After installation type 'python AiVirtualMouseProject.py' click enter..
+Step 1 : \n
+  Go to folder where the project files are \n
+Step 2 : \n
+  Open Command prompt and enter 'pip install -r requirement.txt'\n
+Step 3 :\n
+  After installation type 'python AiVirtualMouseProject.py' click enter..\n
   
 ### Boom you are ready with Virtual Mouse...
 
